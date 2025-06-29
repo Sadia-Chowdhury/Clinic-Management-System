@@ -35,7 +35,7 @@ ClinicManagementSystem/
 ## ⚙️ Getting Started
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/ClinicManagementSystem.git
+   git clone git@github.com:Sadia-Chowdhury/Clinic-Management-System.git
    Open the .sln file in Visual Studio.
 
 2. Update the connection string in AppDbContext.cs if needed.
